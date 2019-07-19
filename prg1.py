@@ -1,0 +1,9 @@
+t=input()
+t=int(t)
+if(t>0):
+  if(t%2==0):
+    print("Even")
+  elif(t%2!=0):
+    print("Odd")
+else:
+  print("invalid")
