@@ -8,3 +8,4 @@ if(a<=10000 and n<=10000):
 else:
 	print("no")
 
+
